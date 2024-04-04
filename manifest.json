@@ -3,23 +3,23 @@
   "name": "React App PWA?",
   "icons": [
     {
-      "src": "/images/icon1.svg",
+      "src": "images/icon1.svg",
       "type": "image/svg+xml",
       "sizes": "512x512"
     },
     {
-      "src": "/images/pngicon1.png",
+      "src": "images/pngicon1.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/images/pngicon1.png",
+      "src": "images/pngicon1.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "id": "/?source=pwa",
-  "start_url": "/?source=pwa",
+  "id": "ReactAppWeb",
+  "start_url": "/",
   "background_color": "#3367D6",
   "display": "standalone",
   "scope": "/",
@@ -30,13 +30,13 @@
       "short_name": "ReactJS",
       "description": "Test PWA",
       "url": "/today?source=pwa",
-      "icons": [{ "src": "/images/pngicon1.png", "sizes": "192x192" }]
+      "icons": [{ "src": "images/pngicon1.png", "sizes": "192x192" }]
     }
   ],
   "description": "ReactJS PWA App",
   "screenshots": [
     {
-      "src": "/images/windows-phone-icon-8.png",
+      "src": "images/windows-phone-icon-8.png",
       "type": "image/png",
       "sizes": "540x720",
       "form_factor": "narrow"
